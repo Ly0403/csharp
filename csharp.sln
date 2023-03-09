@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.Core", "LyForever.Core\LyForever.Core.csproj", "{86C57078-F674-41DE-8DA4-EAE500BB19AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.SampleDb.Entities", "LyForever.SampleDb.Entities\LyForever.SampleDb.Entities.csproj", "{F07FDB35-EA18-4F6E-A843-681CE4868C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.SampleDb.DataAccess", "LyForever.SampleDb.DataAccess\LyForever.SampleDb.DataAccess.csproj", "{4997CC10-3E1C-41E8-B557-7BA2C9850693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.SampleDb.Business", "LyForever.SampleDb.Business\LyForever.SampleDb.Business.csproj", "{9B91C0F5-F1A6-4BC9-B00E-3E88CF87BC13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.SampleDb.MvcWebUI", "LyForever.SampleDb.MvcWebUI\LyForever.SampleDb.MvcWebUI.csproj", "{0253F64D-BC50-490D-8C64-17EC8C0172E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.SampleDb.MvcWebUI.Tests", "LyForever.SampleDb.MvcWebUI.Tests\LyForever.SampleDb.MvcWebUI.Tests.csproj", "{C68DEE94-75A4-4FB1-B35E-53123419FC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.SampleDb.DataAccess.Tests", "LyForever.SampleDb.DataAccess.Tests\LyForever.SampleDb.DataAccess.Tests.csproj", "{40EDCBDA-7F57-4D8B-A897-562E68BB3A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.SampleDb.Business.Tests", "LyForever.SampleDb.Business.Tests\LyForever.SampleDb.Business.Tests.csproj", "{E0BC64AC-EE45-404C-8E34-01EBBA51FEB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.SampleDb.WebAPI", "LyForever.SampleDb.WebAPI\LyForever.SampleDb.WebAPI.csproj", "{F7F58F3F-F7AA-43FE-A208-B454E7EA3CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyForever.SampleDb.WcfService", "LyForever.SampleDb.WcfService\LyForever.SampleDb.WcfService.csproj", "{A1A7DAC8-743C-46F7-A8A2-4E7BB6A602EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C57078-F674-41DE-8DA4-EAE500BB19AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C57078-F674-41DE-8DA4-EAE500BB19AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C57078-F674-41DE-8DA4-EAE500BB19AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C57078-F674-41DE-8DA4-EAE500BB19AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07FDB35-EA18-4F6E-A843-681CE4868C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07FDB35-EA18-4F6E-A843-681CE4868C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07FDB35-EA18-4F6E-A843-681CE4868C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07FDB35-EA18-4F6E-A843-681CE4868C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4997CC10-3E1C-41E8-B557-7BA2C9850693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4997CC10-3E1C-41E8-B557-7BA2C9850693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4997CC10-3E1C-41E8-B557-7BA2C9850693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4997CC10-3E1C-41E8-B557-7BA2C9850693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B91C0F5-F1A6-4BC9-B00E-3E88CF87BC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B91C0F5-F1A6-4BC9-B00E-3E88CF87BC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B91C0F5-F1A6-4BC9-B00E-3E88CF87BC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B91C0F5-F1A6-4BC9-B00E-3E88CF87BC13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0253F64D-BC50-490D-8C64-17EC8C0172E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0253F64D-BC50-490D-8C64-17EC8C0172E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0253F64D-BC50-490D-8C64-17EC8C0172E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0253F64D-BC50-490D-8C64-17EC8C0172E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68DEE94-75A4-4FB1-B35E-53123419FC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68DEE94-75A4-4FB1-B35E-53123419FC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68DEE94-75A4-4FB1-B35E-53123419FC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68DEE94-75A4-4FB1-B35E-53123419FC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EDCBDA-7F57-4D8B-A897-562E68BB3A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EDCBDA-7F57-4D8B-A897-562E68BB3A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EDCBDA-7F57-4D8B-A897-562E68BB3A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EDCBDA-7F57-4D8B-A897-562E68BB3A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BC64AC-EE45-404C-8E34-01EBBA51FEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BC64AC-EE45-404C-8E34-01EBBA51FEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BC64AC-EE45-404C-8E34-01EBBA51FEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BC64AC-EE45-404C-8E34-01EBBA51FEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F58F3F-F7AA-43FE-A208-B454E7EA3CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F58F3F-F7AA-43FE-A208-B454E7EA3CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F58F3F-F7AA-43FE-A208-B454E7EA3CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F58F3F-F7AA-43FE-A208-B454E7EA3CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A7DAC8-743C-46F7-A8A2-4E7BB6A602EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A7DAC8-743C-46F7-A8A2-4E7BB6A602EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A7DAC8-743C-46F7-A8A2-4E7BB6A602EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A7DAC8-743C-46F7-A8A2-4E7BB6A602EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {553F3741-F17C-4D6F-A35F-1C0F83D7921C}
+	EndGlobalSection
+EndGlobal
