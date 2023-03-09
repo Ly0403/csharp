@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\csharp\LyForever.SampleDb.WcfService\bin\LyForever.SampleDb.WcfService.dll.config
+C:\Users\root\source\repos\csharp\LyForever.SampleDb.WcfService\bin\LyForever.SampleDb.WcfService.dll
+C:\Users\root\source\repos\csharp\LyForever.SampleDb.WcfService\bin\LyForever.SampleDb.WcfService.pdb
+C:\Users\root\source\repos\csharp\LyForever.SampleDb.WcfService\obj\Debug\LyForever.SampleDb.WcfService.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\csharp\LyForever.SampleDb.WcfService\obj\Debug\LyForever.SampleDb.WcfService.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\csharp\LyForever.SampleDb.WcfService\obj\Debug\LyForever.SampleDb.WcfService.dll
+C:\Users\root\source\repos\csharp\LyForever.SampleDb.WcfService\obj\Debug\LyForever.SampleDb.WcfService.pdb
